@@ -36,6 +36,9 @@ dependencies:
   cupertino_icons: ^1.0.2
   mobx: ^2.0.6+1
   flutter_mobx: ^2.0.4
+  syncfusion_flutter_gauges: ^19.4.42
+  currency_text_input_formatter: ^2.1.5
+  intl:
 
 dev_dependencies:
   flutter_test:
@@ -49,6 +52,7 @@ dev_dependencies:
   flutter_lints: ^1.0.0
   build_runner: ^2.1.7
   mobx_codegen: ^2.0.5+2
+  
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
